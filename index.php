@@ -37,6 +37,8 @@ textarea {
 
 <body>
 
+	<!-- test -->
+
 	<div class="center">
 		<?php
 			if ($_POST['clear']=="Clear") { echo "<script>location.reload();</script>"; }
